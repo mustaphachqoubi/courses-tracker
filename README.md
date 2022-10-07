@@ -11,6 +11,8 @@ I decided to relearn js from 0 to become a js giga chad expert :) so i have 8 co
 # JavaScript: From Fundamentals to Functional JS, v2 => *8 hours, 3 minutes
 - i started the course
 - i got a burnout so i need some days of to reboot, but i am gonna update the repo every day
+- i get back :)
+- i didn't like the way of explaining (the teacher => Bianca Gandolfo)
 
 # JavaScript: The Hard Parts, v2 => *6 hours, 41 minutes
 
