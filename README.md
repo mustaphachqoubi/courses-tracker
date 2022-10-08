@@ -27,3 +27,9 @@ I decided to relearn js from 0 to become a js giga chad expert :) so i have 8 co
 # Hardcore Functional Programming in JavaScript, v2 => *3 hours, 44 minutes
 
 # Accessibility in JavaScript Applications => *4 hours, 6 minutes
+
+#
+
+# Lests start learning Data Visualization with D3.js
+* my first course is :
+## Data Visualization First Steps (By Anjana Vakil) > 3h:27m
