@@ -34,3 +34,5 @@ I decided to relearn js from 0 to become a js giga chad expert :) so i have 8 co
 * my first course is :
 ## Data Visualization First Steps (By Anjana Vakil) > 3h:27m
 - i liked the beginning of the course and so exited to finish it and start building projects with my knowledge.
+- <img width="1440" alt="Screenshot 2022-10-09 at 20 35 31" src="https://user-images.githubusercontent.com/40337716/194776171-1bf79af7-3984-4d62-bf6d-134f6a8ae83b.png">
+best explaination of Filter, map, reduce methods 😅
