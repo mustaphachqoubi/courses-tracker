@@ -30,6 +30,7 @@ I decided to relearn js from 0 to become a js giga chad expert :) so i have 8 co
 
 #
 
-# Lests start learning Data Visualization with D3.js
+# 💹 Lests start learning Data Visualization with D3.js
 * my first course is :
 ## Data Visualization First Steps (By Anjana Vakil) > 3h:27m
+- i liked the beginning of the course and so exited to finish it and start building projects with my knowledge.
