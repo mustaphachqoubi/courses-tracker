@@ -36,3 +36,5 @@ I decided to relearn js from 0 to become a js giga chad expert :) so i have 8 co
 - i liked the beginning of the course and so exited to finish it and start building projects with my knowledge.
 - <img width="1440" alt="Screenshot 2022-10-09 at 20 35 31" src="https://user-images.githubusercontent.com/40337716/194776171-1bf79af7-3984-4d62-bf6d-134f6a8ae83b.png">
 best explaination of Filter, map, reduce methods 😅
+- <img width="1039" alt="Screenshot 2022-10-10 at 21 25 28" src="https://user-images.githubusercontent.com/40337716/194947723-e9ccd9e5-11b3-4dbb-a8c1-79fb619e28b4.png">
+my first vis of data
